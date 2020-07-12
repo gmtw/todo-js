@@ -1,2 +1,14 @@
 # webpack-course
-Este es el cascaron de mis aplicaciones que usan webpack
+Este es el proyecto inicial para crear aplicaciones utilizando webpack.
+
+### Notas
+Recuerden reconstruir los modulos de Node
+```
+npm install
+```
+
+y para construir el build
+
+```
+npm run builder
+```
